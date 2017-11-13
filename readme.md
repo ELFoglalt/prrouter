@@ -13,7 +13,7 @@ You can use the utility by either running the python script directly (requires P
 $ python path/to/prrouter.py -h
 ```
 
-Or in case you have the built standalone executible, run it from the command line
+or in case of the standalone executible, run it from the command line
 ```
 $ path/to/prrouter.exe -h
 ```
