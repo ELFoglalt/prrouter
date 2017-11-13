@@ -1,0 +1,35 @@
+--- #overlay styles
+{
+    inline: {
+        lettering: {
+            name: 'InlineLettering',
+            opacity: 1
+        },
+        grid: {
+            name: 'Grid',
+            opacity: 1
+        }
+    },
+    edge: {
+        lettering: {
+            name: 'EdgeLettering',
+            opacity: 1
+        },
+        grid: {
+            name: 'Grid',
+            opacity: 1
+        }
+    },
+    dual: {
+        lettering: {
+            name: 'DualLettering',
+            opacity: 1
+        },
+        grid: {
+            name: 'Grid',
+            opacity: 1
+        }
+    },
+    none: {
+    }
+}

@@ -1,0 +1,77 @@
+--- #colormaps
+{
+    dark: {
+        text_font: "OpenSans-Bold",
+        text_color: "#FFFFFFFF",
+        text_size: 16,
+        route_color: "#F0F0F080",
+        route_width: 2,
+        flag_line_color: "#F0F0F080",
+        flag_line_width: 1,
+        flag_circle_color: "#FFFFFFAA",
+        flag_circle_width: 2,
+        flag_background_color: "#FFFFFF16",
+        dims: ["#FFFFFFA0"],
+        overlays: ["#001212F0"],
+    },
+    rainbow: {
+        text_font: "OpenSans-Bold",
+        text_color: "#FFFFFFFF",
+        text_size: 16,
+        route_width: 2,
+        flag_line_width: 2,
+        flag_circle_width: 2,
+        sequence: [{
+          route_color: "#FF000080",
+          flag_line_color: "#FF000060",
+          flag_circle_color: "#FF0000AA",
+          flag_background_color: "#FF000016",
+        }, {
+          route_color: "#FF7F0080",
+          flag_line_color: "#FF7F0060",
+          flag_circle_color: "#FF7F00AA",
+          flag_background_color: "#FF7F0016",
+        }, {
+          route_color: "#FFFF0080",
+          flag_line_color: "#FFFF0060",
+          flag_circle_color: "#FFFF00AA",
+          flag_background_color: "#FFFF0016",
+        }, {
+          route_color: "#00FF0080",
+          flag_line_color: "#00FF0060",
+          flag_circle_color: "#00FF00AA",
+          flag_background_color: "#00FF0016",
+        }, {
+          route_color: "#0000FF80",
+          flag_line_color: "#0000FF60",
+          flag_circle_color: "#0000FFAA",
+          flag_background_color: "#0000FF16",
+        }, {
+          route_color: "#4B008280",
+          flag_line_color: "#4B008260",
+          flag_circle_color: "#4B0082AA",
+          flag_background_color: "#4B008216",
+        }, {
+          route_color: "#9400D380",
+          flag_line_color: "#9400D360",
+          flag_circle_color: "#9400D3AA",
+          flag_background_color: "#9400D316",
+        }, {
+          route_color: "#FFFFFF80",
+          flag_line_color: "#FFFFFF60",
+          flag_circle_color: "#FFFFFF",
+          flag_background_color: "#FFFFFF16",
+        }],
+        dims: [
+            "#00220037",
+            "#00004437",
+            "#02000537",
+            "#02002237",
+            "#32000037",
+            "#44140037",
+            "#44440037",
+            "#00000037",
+        ],
+        overlays: ["#FFFFFFCC"],
+    }
+}
